@@ -1,4 +1,4 @@
-[![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/28161925/DevOps-min.gif)]
+![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/28161925/DevOps-min.gif)
 <h1 align="center">Hi 👋, I'm Bhaskara Krishna Teja P</h1>
 <h3 align="center">I'm a Java Programmer And A DevOps Enthusiast from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">

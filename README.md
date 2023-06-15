@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=http%3A%2F%2Ffaun.dev%2Fc%2Fstories%2Fisitmohit%2Fcloud-vs-devops-in-2023%2F&psig=AOvVaw3PmZc8AQ0Ak8uAZ_dfwVfN&ust=1686919789673000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMDi3Yioxf8CFQAAAAAdAAAAABA5)]
+[![MasterHead](https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/28161925/DevOps-min.gif)]
 <h1 align="center">Hi 👋, I'm Bhaskara Krishna Teja P</h1>
 <h3 align="center">I'm a Java Programmer And A DevOps Enthusiast from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
